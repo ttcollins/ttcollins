@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🌱 I’m currently learning **Spring Boot, Devops, Cloud Engineering**<br><br>
-- 👨‍💻 All of my projects are available at [ttcollins@github.com](ttcollins@github.com)<br><br> 
+- 👨‍💻 All of my projects are available at [ttcollins@github.com - personal account](ttcollins@github.com) and [ttcol@github.com - work account](ttcol@github.com)<br><br> 
 - 💬 Ask me about **Java, Prometheus, Grafana, Spring**<br><br>
 - 📫 How to reach me **ttamalecollins@gmail.com**<br>
 
